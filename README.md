@@ -5,4 +5,4 @@ Includes:
 - XGBoost prediction
 
 2. augmented-dickey-fuller
-     - Explain concepts of the Augmented Dickey-Fuller Test, Stationarity, and Unit Roots in Time Series Model.
+- Explain concepts of the Augmented Dickey-Fuller Test, Stationarity, and Unit Roots in Time Series Model.
